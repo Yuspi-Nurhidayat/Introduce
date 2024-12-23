@@ -6,40 +6,38 @@ Saya adalah seorang **Data Analyst** yang baru beralih dari karier sebelumnya di
 
 Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti SQL,Microsoft Excel dan Power BI. Saya juga memiliki pengetahuan dalam analisis data dan statistik yang memungkinkan saya untuk membuat model prediktif dan analisis yang mendalam. Saya bersemangat untuk terus belajar dan mengembangkan keterampilan saya dalam bidang data analisis.
 
-- 🌍 Berbasis di: [Lokasi Anda]
-- 📫 Hubungi saya di: [Email Anda]
-- 💼 LinkedIn: [Profil LinkedIn Anda]
-- 📝 Blog: [Blog atau Website Anda]
+- 🌍 Berbasis di: Bandung,Jawa Barat
+- 📫 Hubungi saya di: yuspinurhidayat26@gmail.com
+- 💼 LinkedIn:(https://www.linkedin.com/in/yuspi-nurhidayat/)
 
 ## Keterampilan
-- **Bahasa Pemrograman**: Python, R, SQL
-- **Alat Visualisasi**: Tableau, Power BI, Matplotlib, Seaborn
-- **Machine Learning**: scikit-learn, TensorFlow, Keras
-- **Database**: MySQL, PostgreSQL, MongoDB
-
-## Proyek
-### [Proyek 1: Analisis Penjualan](link-ke-proyek-1)
-Dalam proyek ini, saya menganalisis data penjualan untuk mengidentifikasi tren dan pola yang dapat membantu meningkatkan strategi pemasaran. Saya menggunakan Excel dan Power BI untuk membuat visualisasi yang membantu dalam memahami data dengan lebih baik. Hasil analisis ini membantu perusahaan meningkatkan penjualan sebesar 15% dalam tiga bulan.
-
-### [Proyek 2: Segmentasi Pelanggan](link-ke-proyek-2)
-Proyek ini melibatkan segmentasi pelanggan berdasarkan perilaku pembelian mereka. Saya menggunakan Python dan scikit-learn untuk melakukan clustering dan segmentasi. Hasilnya, perusahaan dapat mengidentifikasi segmen pelanggan yang paling menguntungkan dan menargetkan kampanye pemasaran yang lebih efektif, meningkatkan konversi sebesar 20%.
-
-### [Proyek 3: Model Prediktif](link-ke-proyek-3)
-Saya mengembangkan model prediktif untuk memprediksi churn pelanggan menggunakan R dan TensorFlow. Model ini membantu perusahaan mengidentifikasi pelanggan yang berisiko tinggi untuk churn dan mengambil tindakan proaktif untuk mempertahankan mereka. Hasilnya, churn pelanggan berkurang sebesar 15%.
+- **Bahasa Pemrograman**:SQL
+- **Alat Visualisasi**:Microsoft Excel dan Power BI
+- **Database**: MySQL,HeidiSQL
 
 ## Pengalaman Kerja
-- **[Nama Perusahaan]** - [Posisi Sebelumnya]
-  - Tanggal: [Bulan, Tahun - Bulan, Tahun]
-  - Tanggung Jawab: [Deskripsi singkat tentang tanggung jawab dan pencapaian Anda]
+- Staff Project Development Strategic Marketing- Pekerja Lepas (projek)
+KCP Bank CTBC Indonesia– Bandung, Jawa Barat	Februari 2022– Juni 2022
+●	Membantu dan melakukan analisis strategi projek untuk meningkatkan awareness merek, engagement dan konversi.
+●	Membangun formulasi strategi marketing dan program pengembangan bisnis perusahaan 
+●	Memabantu dalam pengoptimalisasian sumber daya manusia perusahaan dalam menjalankan strategi Marketing.
+●	Melakukan rancangan analisis pengelolaan anggaran projek dalam strategi marketing yang diterapakan perusahaan
+●	Membangun relationship marketing dengan client 
 
-- **[Nama Perusahaan]** - [Posisi Sebelumnya]
-  - Tanggal: [Bulan, Tahun - Bulan, Tahun]
-  - Tanggung Jawab: [Deskripsi singkat tentang tanggung jawab dan pencapaian Anda]
+- Staff Administrasi Pemerintahan- Magang
+Kantor Kecamatan Ujungberung – Kota Bandung , Jawa Barat	Juli 2022 – September 2022
+●	Menyusun, mengelola dan mengarsipkan dokumen perusahaan secara sistematis untuk memastikan kemudahan akses dan keamanan informasi.
+●	Mengelola korespondensi masuk dan keluar dokumen masyarakat, data pemerintahan dan surat perizinan hukum
+●	Membantu dan mengelola inventaris kantor , serta membuat dan mengatur jadwal kegiatan pemerintahan
+●	Membangun komunikasi dan membantu kegiatan sosialisasi pemerintahan kepada masyarakat 
 
 ## Pendidikan
-- **[Nama Universitas]** - [Gelar Anda]
-  - Tanggal: [Tahun Masuk - Tahun Lulus]
-  - Deskripsi: [Deskripsi singkat tentang program studi dan pencapaian Anda]
+- S1 Manajemen
+Universitas Informatika dan Bisnis Indonesia – Bandung, Jawa Barat	September 2019 – November 2023
+●	Konsentrasi Manajemen Sumber Daya Manusia
+●	Meraih IPK 3,54/ 4,00 dengan predikat Sangat memuaskan
+●	Ikut berkontribusi dalam berbagai kegiatan dan pelatihan, seperti pelatihan computer, webinar dan kepanitiaan.
+
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghubungi saya melalui email atau LinkedIn.
