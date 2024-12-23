@@ -19,27 +19,27 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
 - Staff Project Development Strategic Marketing- Pekerja Lepas (projek)
 - KCP Bank CTBC Indonesia– Bandung, Jawa Barat	(Februari 2022– Juni 2022)
 - Jobdesk :
-            - Membantu dan melakukan analisis strategi projek untuk meningkatkan awareness merek, engagement dan konversi.
-            - Membangun formulasi strategi marketing dan program pengembangan bisnis perusahaan 
-            - Memabantu dalam pengoptimalisasian sumber daya manusia perusahaan dalam menjalankan strategi Marketing.
-            - Melakukan rancangan analisis pengelolaan anggaran projek dalam strategi marketing yang diterapakan perusahaan
-            - Membangun relationship marketing dengan client 
+  - Membantu dan melakukan analisis strategi projek untuk meningkatkan awareness merek, engagement dan konversi.
+  - Membangun formulasi strategi marketing dan program pengembangan bisnis perusahaan 
+  - Memabantu dalam pengoptimalisasian sumber daya manusia perusahaan dalam menjalankan strategi Marketing.
+  - Melakukan rancangan analisis pengelolaan anggaran projek dalam strategi marketing yang diterapakan perusahaan
+  - Membangun relationship marketing dengan client 
         
 
 - Staff Administrasi Pemerintahan- Magang
 - Kantor Kecamatan Ujungberung – Kota Bandung , Jawa Barat	(Juli 2022 – September 2022)
 - Jobdesk :
-            - Menyusun, mengelola dan mengarsipkan dokumen perusahaan secara sistematis untuk memastikan kemudahan akses dan keamanan informasi.
-            - Mengelola korespondensi masuk dan keluar dokumen masyarakat, data pemerintahan dan surat perizinan hukum
-            - Membantu dan mengelola inventaris kantor , serta membuat dan mengatur jadwal kegiatan pemerintahan
-            - Membangun komunikasi dan membantu kegiatan sosialisasi pemerintahan kepada masyarakat 
+  - Menyusun, mengelola dan mengarsipkan dokumen perusahaan secara sistematis untuk memastikan kemudahan akses dan keamanan informasi.
+  - Mengelola korespondensi masuk dan keluar dokumen masyarakat, data pemerintahan dan surat perizinan hukum
+  - Membantu dan mengelola inventaris kantor , serta membuat dan mengatur jadwal kegiatan pemerintahan
+  - Membangun komunikasi dan membantu kegiatan sosialisasi pemerintahan kepada masyarakat 
 
 ## Pendidikan
 - S1 Manajemen
 - Universitas Informatika dan Bisnis Indonesia – Bandung, Jawa Barat
-●	Konsentrasi Manajemen Sumber Daya Manusia
-●	Meraih IPK 3,54/ 4,00 dengan predikat Sangat memuaskan
-●	Ikut berkontribusi dalam berbagai kegiatan dan pelatihan, seperti pelatihan computer, webinar dan kepanitiaan.
+- Konsentrasi Manajemen Sumber Daya Manusia
+- Meraih IPK 3,54/ 4,00 dengan predikat Sangat memuaskan
+- Ikut berkontribusi dalam berbagai kegiatan dan pelatihan, seperti pelatihan computer, webinar dan kepanitiaan.
 
 
 ## Kontak
