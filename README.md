@@ -16,13 +16,14 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
 - **Database**: MySQL,HeidiSQL
 
 ## Pengalaman Kerja
-**Staff Project Development Strategic Marketing- Pekerja Lepas (projek),
-KCP Bank CTBC Indonesia– Bandung, Jawa Barat	Februari 2022– Juni 2022,
-● Membantu dan melakukan analisis strategi projek untuk meningkatkan awareness merek, engagement dan konversi.
-●	Membangun formulasi strategi marketing dan program pengembangan bisnis perusahaan 
-●	Memabantu dalam pengoptimalisasian sumber daya manusia perusahaan dalam menjalankan strategi Marketing.
-●	Melakukan rancangan analisis pengelolaan anggaran projek dalam strategi marketing yang diterapakan perusahaan
-●	Membangun relationship marketing dengan client 
+- **Staff Project Development Strategic Marketing- Pekerja Lepas (projek)
+- **KCP Bank CTBC Indonesia– Bandung, Jawa Barat	Februari 2022– Juni 2022
+- **Jobdesk
+    - **Membantu dan melakukan analisis strategi projek untuk meningkatkan awareness merek, engagement dan konversi.
+    - **Membangun formulasi strategi marketing dan program pengembangan bisnis perusahaan 
+    - **Memabantu dalam pengoptimalisasian sumber daya manusia perusahaan dalam menjalankan strategi Marketing.
+    - **Melakukan rancangan analisis pengelolaan anggaran projek dalam strategi marketing yang diterapakan perusahaan
+    - **Membangun relationship marketing dengan client 
 
 **Staff Administrasi Pemerintahan- Magang,
 Kantor Kecamatan Ujungberung – Kota Bandung , Jawa Barat	Juli 2022 – September 2022,
