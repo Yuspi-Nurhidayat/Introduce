@@ -2,9 +2,9 @@
 # Halo, Saya Yuspi Nurhidayat 👋
 
 ## Tentang Saya
-Saya adalah seorang **Data Analyst** yang baru beralih dari karier sebelumnya di [Bidang Sebelumnya]. Dengan latar belakang yang kuat dalam [Bidang Sebelumnya], saya membawa perspektif unik dalam analisis data dan pemecahan masalah. Saya memiliki pengalaman dalam mengumpulkan, menganalisis, dan menginterpretasikan data untuk membantu pengambilan keputusan yang lebih baik.
+Saya adalah seorang **Data Analyst** yang baru beralih dari karier sebelumnya di bidang Digital Marketing & Data Entry. Dengan latar belakang yang kuat dalam bidang sebelumnya, saya membawa perspektif unik dalam analisis data dan pemecahan masalah. Saya memiliki pengalaman dalam mengumpulkan, menganalisis, dan menginterpretasikan data untuk membantu pengambilan keputusan yang lebih baik.
 
-Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti Python, R, SQL, Tableau, dan Power BI. Saya juga memiliki pengetahuan dalam machine learning dan statistik yang memungkinkan saya untuk membuat model prediktif dan analisis yang mendalam. Saya bersemangat untuk terus belajar dan mengembangkan keterampilan saya dalam bidang data science.
+Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti SQL,Microsoft Excel dan Power BI. Saya juga memiliki pengetahuan dalam analisis data dan statistik yang memungkinkan saya untuk membuat model prediktif dan analisis yang mendalam. Saya bersemangat untuk terus belajar dan mengembangkan keterampilan saya dalam bidang data analisis.
 
 - 🌍 Berbasis di: [Lokasi Anda]
 - 📫 Hubungi saya di: [Email Anda]
