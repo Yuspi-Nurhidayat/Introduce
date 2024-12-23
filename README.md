@@ -1,5 +1,5 @@
-# Introduce
-# Halo, Saya [Nama Anda] 👋
+
+# Halo, Saya Yuspi Nurhidayat 👋
 
 ## Tentang Saya
 Saya adalah seorang **Data Analyst** yang baru beralih dari karier sebelumnya di [Bidang Sebelumnya]. Dengan latar belakang yang kuat dalam [Bidang Sebelumnya], saya membawa perspektif unik dalam analisis data dan pemecahan masalah. Saya memiliki pengalaman dalam mengumpulkan, menganalisis, dan menginterpretasikan data untuk membantu pengambilan keputusan yang lebih baik.
