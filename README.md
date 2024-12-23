@@ -8,24 +8,24 @@ Saya memiliki keterampilan dalam menggunakan berbagai alat analisis data seperti
 
 - 🌍 Berbasis di: Bandung,Jawa Barat
 - 📫 Hubungi saya di: yuspinurhidayat26@gmail.com
-- 💼 LinkedIn:(https://www.linkedin.com/in/yuspi-nurhidayat/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/yuspi-nurhidayat)
 
 ## Keterampilan
-- **Bahasa Pemrograman**:SQL
-- **Alat Visualisasi**:Microsoft Excel dan Power BI
+- **Bahasa Pemrograman**: SQL
+- **Alat Visualisasi**: Microsoft Excel dan Power BI
 - **Database**: MySQL,HeidiSQL
 
 ## Pengalaman Kerja
-- Staff Project Development Strategic Marketing- Pekerja Lepas (projek)
-KCP Bank CTBC Indonesia– Bandung, Jawa Barat	Februari 2022– Juni 2022
-●	Membantu dan melakukan analisis strategi projek untuk meningkatkan awareness merek, engagement dan konversi.
+**Staff Project Development Strategic Marketing- Pekerja Lepas (projek),
+KCP Bank CTBC Indonesia– Bandung, Jawa Barat	Februari 2022– Juni 2022,
+● Membantu dan melakukan analisis strategi projek untuk meningkatkan awareness merek, engagement dan konversi.
 ●	Membangun formulasi strategi marketing dan program pengembangan bisnis perusahaan 
 ●	Memabantu dalam pengoptimalisasian sumber daya manusia perusahaan dalam menjalankan strategi Marketing.
 ●	Melakukan rancangan analisis pengelolaan anggaran projek dalam strategi marketing yang diterapakan perusahaan
 ●	Membangun relationship marketing dengan client 
 
-- Staff Administrasi Pemerintahan- Magang
-Kantor Kecamatan Ujungberung – Kota Bandung , Jawa Barat	Juli 2022 – September 2022
+**Staff Administrasi Pemerintahan- Magang,
+Kantor Kecamatan Ujungberung – Kota Bandung , Jawa Barat	Juli 2022 – September 2022,
 ●	Menyusun, mengelola dan mengarsipkan dokumen perusahaan secara sistematis untuk memastikan kemudahan akses dan keamanan informasi.
 ●	Mengelola korespondensi masuk dan keluar dokumen masyarakat, data pemerintahan dan surat perizinan hukum
 ●	Membantu dan mengelola inventaris kantor , serta membuat dan mengatur jadwal kegiatan pemerintahan
